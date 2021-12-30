@@ -1,0 +1,4 @@
+wordpress extensions for vscode:
+-> classicpress snippid
+-> cobalt2theme official
+-> 
